@@ -93,4 +93,5 @@ exports.aws_setup = {
     AWS_DEFAULT_REGION: env_1.getOsEnv('AWS_DEFAULT_REGION'),
     AWS_BUCKET: env_1.getOsEnv('AWS_BUCKET'),
 };
+console.log('./////////////////////', exports.env);
 //# sourceMappingURL=env.js.map

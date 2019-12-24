@@ -99,3 +99,4 @@ export const aws_setup = {
     AWS_DEFAULT_REGION: getOsEnv('AWS_DEFAULT_REGION'),
     AWS_BUCKET: getOsEnv('AWS_BUCKET'),
 };
+console.log('./////////////////////', env);
